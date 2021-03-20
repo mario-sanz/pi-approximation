@@ -1,7 +1,7 @@
 # Pi approximation
 This code approximates the number [Pi][pi].
 
-A circle is drawn representing the random dots that we generate. If a dot is inside our defined circle, it will be painted in **green. If it is outside, it will be **red.
+A circle is drawn representing the random dots that we generate. If a dot is inside our defined circle, it will be painted in green. If it is outside, it will be red.
 
 The best approximation is also written in the console, that is, if we have a number whose difference (absolute value) to the real Pi number is smaller than the previous best approximation, we write it.
 
