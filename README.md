@@ -5,7 +5,7 @@ A circle is drawn representing the random dots that we generate. If a dot is ins
 
 The best approximation is also written in the console, that is, if we have a number whose difference (absolute value) to the real Pi number is smaller than the previous best approximation, we write it.
 
-**Below you can see some examples of how many dots the circle had and how much precise the approximation was. The more dots, the best approximation.**
+**Below you can see some examples of how many dots the circle had and how much precise the approximation was. The more dots, the best approximation. The code can be tested by cloning/downloading this repository and running it on the [p5.js][] web editor**
 
 Stars in GitHub are appreciated!
 
@@ -41,5 +41,6 @@ Developer: [mario-sanz][mariosanz]
 
 <!-- References -->
 [pi]: https://en.wikipedia.org/wiki/Pi
+[p5]: https://editor.p5js.org/
 [mariosanz]: https://github.com/mario-sanz
 [issues-page]: https://github.com/mario-sanz/pi-approximation/issues
