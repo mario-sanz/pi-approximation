@@ -13,7 +13,7 @@ If you have any further questions or suggestions, don't hesitate to ask me here:
 
 Developer: [mario-sanz][mariosanz]
 
-
+# Graphical representation examples
 
 ![3 14191419141917](https://user-images.githubusercontent.com/72298127/111870251-e6c01080-8983-11eb-92b9-13217bb17620.png)
 
