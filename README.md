@@ -35,7 +35,7 @@ Developer: [mario-sanz][mariosanz]
 
 ![3 1415926719499985](https://user-images.githubusercontent.com/72298127/111870288-1bcc6300-8984-11eb-8789-e437d0853b66.png)
 
-**Pi approximation value (MY CODE): 3.1415926719499985**
+**3.1415926719499985 => Pi approximation value (MY CODE)**
 
 **Pi value (REAL): 3.1415926535897932**
 
