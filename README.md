@@ -13,20 +13,29 @@ If you have any further questions or suggestions, don't hesitate to ask me here:
 
 Developer: [mario-sanz][mariosanz]
 
+
 ![3 14191419141917](https://user-images.githubusercontent.com/72298127/111870251-e6c01080-8983-11eb-92b9-13217bb17620.png)
+
 **Pi approximation value (MY CODE): 3.14191419141917
+
 **Pi value (REAL): 3.1415926535897932
 
 ![3 1415990730011587](https://user-images.githubusercontent.com/72298127/111870275-fdfefe00-8983-11eb-8c27-ab538d137790.png)
+
 **Pi approximation value (MY CODE): 3.1415990730011587
+
 **Pi value (REAL): 3.1415926535897932
 
 ![3 141592666034428](https://user-images.githubusercontent.com/72298127/111870284-0c4d1a00-8984-11eb-8106-8928891be234.png)
+
 **Pi approximation value (MY CODE): 3.141592666034428
+
 **Pi value (REAL): 3.1415926535897932
 
 ![3 1415926719499985](https://user-images.githubusercontent.com/72298127/111870288-1bcc6300-8984-11eb-8789-e437d0853b66.png)
+
 **Pi approximation value (MY CODE): 3.1415926719499985
+
 **Pi value (REAL): 3.1415926535897932
 
 <!-- References -->
